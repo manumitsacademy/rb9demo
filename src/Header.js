@@ -3,7 +3,7 @@ import React from 'react';
 function Header(props) {
     return (
         <div>
-            <nav className="navbar navbar-expand-sm bg-warning navbar-dark">
+            <nav className="navbar navbar-expand-sm bg-danger navbar-dark">
                 <ul className="navbar-nav">
                     <li className="nav-item active">
                     <a className="nav-link" href="#">Active</a>
